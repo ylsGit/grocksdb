@@ -1,6 +1,6 @@
 //go:build !testing && jemalloc
 
-package grocksdb
+package gorocksdb
 
 import (
 	"testing"

@@ -1,6 +1,6 @@
 //go:build testing
 
-package grocksdb
+package gorocksdb
 
 // #cgo CFLAGS: -I${SRCDIR}/dist/linux_amd64/include
 // #cgo CXXFLAGS: -I${SRCDIR}/dist/linux_amd64/include
